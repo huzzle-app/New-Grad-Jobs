@@ -1,4 +1,4 @@
-# 2024 Tech Grad Roles by Huzzle
+# 2024 Tech Graduate Jobs by Huzzle
 
 Use this repo to find 1,000s of live tech graduate roles 💻
 
