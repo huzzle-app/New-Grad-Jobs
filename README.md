@@ -1,10 +1,15 @@
 # 2024 Tech Graduate Jobs by Huzzle
-
 Use this repo to find 1,000s of live tech graduate roles 💻
-
 ⚠️ Please note that this repo is exclusive for roles in the United States, United Kingdom, or Remote positions 🌍
 
-Tired of checking for new jobs every day? Join [Huzzle](https://huzzle.app) and get sent personalised opportunities every single week 💚
+-----
+<p align='center'> <i>Tired of checking for new jobs every day?</i></p>
+
+<p align='center'> <i><a href='https://huzzle.app?utm_source=GHList&utm_medium=text'>Join Huzzle and get sent personalised opportunities every single week 💚</a></i></p>
+
+<p align='center'><a href='https://huzzle.app?utm_source=GHList&utm_medium=banner'><img src='https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png' alt='Huzzle' style='width:450px;height:158px;'></a>
+
+-----
 
 | Company | Job Title | Location | Apply URL |
 |--------------|----------|----------|-----------|
