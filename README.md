@@ -3,13 +3,26 @@ Use this repo to find 1,000s of live tech graduate roles 💻
 ⚠️ Please note that this repo is exclusive for roles in the United States, United Kingdom, or Remote positions 🌍
 
 -----
-<p align='center'> <i>Tired of checking for new jobs every day?</i></p>
 
-<p align='center'> <i><a href='https://huzzle.app?utm_source=GHList&utm_medium=text'>Join Huzzle and get sent personalised opportunities every single week 💚</a></i></p>
-
-<p align='center'><a href='https://huzzle.app?utm_source=GHList&utm_medium=banner'><img src='https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png' alt='Huzzle' style='width:450px;height:158px;'></a>
+<div align="center">
+	<p> 
+		<a href="https://huzzle.app?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships or jobs?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://huzzle.app?utm_source=GHList&utm_medium=text">
+          <img src="https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png" width="450" alt="Huzzle">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Huzzle’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
 
 -----
+## The Job List 🫡
 
 | Company | Job Title | Location | Apply URL |
 |--------------|----------|----------|-----------|
